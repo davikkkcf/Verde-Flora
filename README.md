@@ -5,12 +5,15 @@ Verde Flora
 Davi Coutinho de Freitas
 Informática para internet 2°D
 Josué Rodrigo Evangelista Figueirêdo
+
 Apresentação do Projeto
 O Verde Flora é um site de floricultura com o intuito de vender flores a domicílio. Este site pretende facilitar a vida de pessoas que não têm tempo ou disponibilidade para se deslocarem a uma floricultura para comprar decorações ou presentes.
+
 Funcionalidades
 No site é possível navegar entre as três diferentes páginas e também é possível inserir as informações na página de cadastro, o site apresenta uma interface amigável e que corrobora com as heurísticas de Nielsen.
 Tecnologias Utilizadas
 Para o site foi utilizado o programa Figma na criação do protótipo e o Visual Studio Code para a elaboração do site com html e css.
+
 Estrutura do Projeto
 O site é estruturado em três arquivos html um arquivo por página sendo:
 Index.html: página inicial
